@@ -1,4 +1,4 @@
-valentino amato
-lucas	ansaldo
-tomas haberman
-juan lopez
+Valentino Amato
+Lucas	Ansaldo
+Tomas Haberman
+Juan Lopez
